@@ -1,6 +1,6 @@
 {
     "name": "maa-solutions/flysystem-kdrive",
-    "description": "Flysystem Adapter for Infomaniak kDrive",
+    "description": "A Flysystem adapter for Infomaniak's kDrive",
     "type": "library",
     "license": "MIT",
     "authors": [
