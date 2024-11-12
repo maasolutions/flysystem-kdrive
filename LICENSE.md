@@ -1,5 +1,6 @@
 # The MIT License (MIT)
 
+Copyright (c) 2024 Marc-André Appel <contact@maa.solutions>
 Copyright (c) 2020 Nicolas Hedger <nicolas.hedger@infomaniak.com>
 
 > Permission is hereby granted, free of charge, to any person obtaining a copy

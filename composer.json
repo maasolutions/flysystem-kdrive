@@ -1,9 +1,13 @@
 {
-    "name": "infomaniak/flysystem-kdrive",
+    "name": "maa-solutions/flysystem-kdrive",
     "description": "Flysystem Adapter for Infomaniak kDrive",
     "type": "library",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Marc-André Appel",
+            "email": "contact@maa.rocks"
+        },
         {
             "name": "Nicolas Hedger",
             "email": "nicolas.hedger@infomaniak.com"
@@ -11,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Infomaniak\\KDrive\\": "src/"
+            "MaaSolutions\\KDrive\\": "src/"
         }
     },
     "minimum-stability": "stable",

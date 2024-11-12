@@ -1,6 +1,6 @@
 <?php
 
-namespace Infomaniak\KDrive;
+namespace MaaSolutions\KDrive;
 
 use League\Flysystem\WebDAV\WebDAVAdapter;
 use Sabre\DAV\Client;
@@ -26,7 +26,7 @@ class KDriveAdapter extends WebDAVAdapter
         $useStreamedCopy = true
     ) {
         $settings = [
-            'baseUri' => "https://${kDriveId}.connect.drive.infomaniak.com",
+            'baseUri' => "https://$kDriveId.connect.drive.infomaniak.com",
             'userName' => $username,
             'password' => $password
         ];

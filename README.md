@@ -9,7 +9,7 @@ This package contains a [Flysystem](https://flysystem.thephpleague.com/) adapter
 ## Installation
 Via [Composer](https://getcomposer.org/)
 ```shell script
-composer require infomaniak/flysystem-kdrive
+composer require maa-solutions/flysystem-kdrive
 ```
 
 ## Credentials
@@ -26,7 +26,7 @@ To be able to connect to your kDrive, you'll need the following information.
 ## Usage
 
 ```php
-use Infomaniak\KDrive\KDriveAdapter;
+use MaaSolutions\KDrive\KDriveAdapter;
 use League\Flysystem\Filesystem;
 
 $kDrive = new KDriveAdapter(
@@ -44,7 +44,7 @@ Go to the [examples](examples) directory to find a few examples to get you start
 ## License
 The MIT License (MIT). Please see the [LICENSE](LICENSE.md) for more information.
 
-[icon-version]: https://img.shields.io/packagist/v/infomaniak/flysystem-kdrive?style=flat-square
-[icon-license]: https://img.shields.io/packagist/l/infomaniak/flysystem-kdrive?style=flat-square
-[icon-downloads]: https://img.shields.io/packagist/dt/infomaniak/flysystem-kdrive?style=flat-square
-[link-packagist]: https://packagist.org/packages/infomaniak/flysystem-kdrive
+[icon-version]: https://img.shields.io/packagist/v/groupe-orka/flysystem-kdrive?style=flat-square
+[icon-license]: https://img.shields.io/packagist/l/groupe-orka/flysystem-kdrive?style=flat-square
+[icon-downloads]: https://img.shields.io/packagist/dt/groupe-orka/flysystem-kdrive?style=flat-square
+[link-packagist]: https://packagist.org/packages/groupe-orka/flysystem-kdrive

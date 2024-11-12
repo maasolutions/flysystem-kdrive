@@ -7,7 +7,7 @@
 
 require dirname(__DIR__). '/vendor/autoload.php';
 
-use Infomaniak\KDrive\KDriveAdapter;
+use MaaSolutions\KDrive\KDriveAdapter;
 use League\Flysystem\Filesystem;
 
 $kDrive = new KDriveAdapter(
