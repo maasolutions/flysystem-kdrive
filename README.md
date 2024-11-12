@@ -44,7 +44,7 @@ Go to the [examples](examples) directory to find a few examples to get you start
 ## License
 The MIT License (MIT). Please see the [LICENSE](LICENSE.md) for more information.
 
-[icon-version]: https://img.shields.io/packagist/v/groupe-orka/flysystem-kdrive?style=flat-square
-[icon-license]: https://img.shields.io/packagist/l/groupe-orka/flysystem-kdrive?style=flat-square
-[icon-downloads]: https://img.shields.io/packagist/dt/groupe-orka/flysystem-kdrive?style=flat-square
-[link-packagist]: https://packagist.org/packages/groupe-orka/flysystem-kdrive
+[icon-version]: https://img.shields.io/packagist/v/maa-solutions/flysystem-kdrive?style=flat-square
+[icon-license]: https://img.shields.io/packagist/l/maa-solutions/flysystem-kdrive?style=flat-square
+[icon-downloads]: https://img.shields.io/packagist/dt/maa-solutions/flysystem-kdrive?style=flat-square
+[link-packagist]: https://packagist.org/packages/maa-solutions/flysystem-kdrive
