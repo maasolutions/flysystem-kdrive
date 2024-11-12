@@ -1,0 +1,15 @@
+{
+  "name": "flysystem-kdrive",
+  "version": "1.0.0",
+  "description": "[![Latest Version on Packagist][icon-version]][link-packagist] [![Software License][icon-license]](LICENSE.md) [![Total Downloads][icon-downloads]][link-packagist]",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
